@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "Nguyen Van A",
+      "email": "a@gmail.com",
+      "password": "123",
+      "avatar": "avatar_url"
+    },
+    {
+      "id": "2",
+      "username": "Nguyen Van B",
+      "email": "b@gmail.com",
+      "password": "123",
+      "avatar": "avatar_url"
+    },
+    {
+      "id": "2023-05-24T04:09:20.073Z",
+      "username": "Nguyen Phuong Ly",
+      "email": "ly@gmail.com",
+      "password": "123",
+      "avatar": "avatar_url"
+    },
+    {
+      "id": "2023-05-24T04:10:17.226Z",
+      "username": "Nguyen Phuong Ly",
+      "email": "ly1@gmail.com",
+      "password": "123",
+      "avatar": "avatar_url"
+    },
+    {
+      "id": "2023-05-24T10:08:44.576Z",
+      "username": "Nguyen Phuong Ly",
+      "email": "1@gmail.com",
+      "password": "123",
+      "avatar": null
+    }
+  ]
+}

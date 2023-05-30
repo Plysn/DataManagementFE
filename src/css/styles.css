@@ -1,0 +1,105 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%; 
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #ccc;
+}
+
+.content {
+  width: 350px;
+  margin: auto;
+  margin-top: 100px;
+  background-color: #fff;
+  border: 1px solid #ccc ;
+  border-radius: 3px;
+}
+
+.button {
+  padding: 3px 6px;
+  margin: 3px 10px;
+  background-color: rgb(22, 119, 255);
+  color: #fff;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color:  rgb(22, 119, 255, 0.8);
+}
+
+/* Home */
+.home {
+  width: 300px;
+  height: 120px;
+  padding: 15px 30px;
+}
+
+.home div {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.home-button {
+  margin: 15px;
+  display: flex;
+  justify-content: space-between;
+  height: 35px;
+}
+
+/* Login form */
+.login-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.login-form {
+  width: 300px;
+  padding: 15px 30px;
+  margin: auto;
+}
+
+.loginform span {
+  text-align: center;
+}
+
+.input-login {
+  padding: 0 5px;
+  width: 100%;
+  margin: 10px 0;
+  height: 35px;
+}
+
+.password {
+  margin-bottom: 0;
+  border: #ccc solid 1px ;
+}
+
+/* Error */
+.input-error {
+  border-radius: 3px;
+  border: 1px solid red;
+}
+
+.login-success {
+  color: transparent;
+  font-size: 10px;
+}
+
+.login-error {
+  color: red;
+  font-size: 10px;
+}
+
+/* Sign up */
+.signup-content {
+  min-height: 330px;
+}
